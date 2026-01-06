@@ -1,0 +1,9 @@
+
+{
+  "name": "Lumina Creative Studio",
+  "description": "An advanced AI-powered creative suite for generating and editing images using Gemini 2.5 Flash Image, integrated with a real-time conversational voice assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
